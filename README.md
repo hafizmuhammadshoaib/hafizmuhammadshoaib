@@ -1,5 +1,5 @@
 ### Hi there 👋
-🔭 I’m currently working on JS/Golang
+- 🔭 I’m currently working on JS/Golang
 - 👀 I’m interested in web, cloud and devops technologies
 - 🌱 I’m currently learning Golang, AWS-CDK.
 - 💞️ I’m looking to collaborate on React/Node projects
