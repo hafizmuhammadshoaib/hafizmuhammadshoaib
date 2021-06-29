@@ -1,4 +1,8 @@
 ### Hi there 👋
+- 👀 I’m interested in web, cloud and devops technologies
+- 🌱 I’m currently learning Golang, AWS-CDK.
+- 💞️ I’m looking to collaborate on React/Node projects
+- 📫 How to reach me shoaibsilat9@gmail.com
 
 <!--
 **hafizmuhammadshoaib/hafizmuhammadshoaib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
