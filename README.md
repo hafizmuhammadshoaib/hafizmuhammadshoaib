@@ -1,8 +1,11 @@
 Hi 👋 My name is Muhammad Shoaib
 ================================
 
+Full Stack Dev
+--------------
+
 * 🌍  I'm based in karachi
-* 🖥️  See my portfolio at [Github](http://hafizmuhammadshoaib.github.io/developerfolio/)
+* 🖥️  See my portfolio at [My Site](http://hafizmuhammadshoaib.github.io/developerfolio/)
 * ✉️  You can contact me at [shoaibsilat9@gmail.com](mailto:shoaibsilat9@gmail.com)
 * 🧠  I'm learning Web 3.0
 * 🤝  I'm open to collaborating on React / Node.js (Express, Nest) / Golang
